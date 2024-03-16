@@ -1,6 +1,7 @@
 <h1 align="center">Hi, This is Shadik</h1>
 <h3 align="center">I'm a competitive programmer</h3>
 
+<img align="right" alt="coding" width="400" src="https://github.com/Shadik286/Shadik286/assets/104418894/fe0c59f2-31f6-4596-a4f2-3affedbbb0ba"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadik286&label=Profile%20views&color=0e75b6&style=flat" alt="shadik286" /> </p>
 
 - 👨‍💻 My Codeforces Profile [https://codeforces.com/profile/sdKrhMn286](https://codeforces.com/profile/sdKrhMn286)
