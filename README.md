@@ -17,6 +17,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/shadikrahman286/](https://www.linkedin.com/in/shadikrahman286/)
 
+<h3 align="left">Projects:</h3>
+
 - 🗃️ My project Cannon - https://shadik286.github.io/Cannon/
 
 <h3 align="left">Connect with me:</h3>
