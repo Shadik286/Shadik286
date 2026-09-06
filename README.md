@@ -9,7 +9,7 @@
 
 - 👨‍💻 My Codeforces Profile [https://codeforces.com/profile/sdKrhMn286](https://codeforces.com/profile/sdKrhMn286)
 
-- 👨‍💻 My StopStalk Profile [https://www.stopstalk.com/user/profile/Shadik286](https://www.stopstalk.com/user/profile/Shadik286)
+- 👨‍💻 My AtCoder Profile [https://atcoder.jp/users/sadik286](https://atcoder.jp/users/sadik286))
 
 - 💬 Ask me about **Data Structure, Algorithms**
 
