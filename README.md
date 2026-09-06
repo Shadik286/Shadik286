@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-    Fresh CSE Graduate | Full-Stack & AI Developer | Competitive Programmer
+    Full-Stack & AI Developer | Competitive Programmer
 </h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/Shadik286/Shadik286/assets/104418894/fe0c59f2-31f6-4596-a4f2-3affedbbb0ba">
@@ -25,44 +25,51 @@
 <p align="left">
 
 <a href="https://codeforces.com/profile/sdKrhMn286" target="_blank">
-<img src="https://cdn.simpleicons.org/codeforces" width="18" height="18" alt="Codeforces"/>
-Codeforces
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codeforces.svg"
+         width="17" height="17" alt="Codeforces"/>
+    Codeforces
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://atcoder.jp/users/sadik286" target="_blank">
-<img src="https://cdn.simpleicons.org/atcoder" width="18" height="18" alt="AtCoder"/>
-AtCoder
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/atcoder.svg"
+         width="17" height="17" alt="AtCoder"/>
+    AtCoder
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/Shadik286" target="_blank">
-<img src="https://cdn.simpleicons.org/github" width="18" height="18" alt="GitHub"/>
-GitHub
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg"
+         width="17" height="17" alt="GitHub"/>
+    GitHub
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/shadikrahman286/" target="_blank">
-<img src="https://cdn.simpleicons.org/linkedin" width="18" height="18" alt="LinkedIn"/>
-LinkedIn
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg"
+         width="17" height="17" alt="LinkedIn"/>
+    LinkedIn
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.codechef.com/users/shadik286" target="_blank">
-<img src="https://cdn.simpleicons.org/codechef" width="18" height="18" alt="CodeChef"/>
-CodeChef
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codechef.svg"
+         width="17" height="17" alt="CodeChef"/>
+    CodeChef
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.leetcode.com/rahmansadik286" target="_blank">
-<img src="https://cdn.simpleicons.org/leetcode" width="18" height="18" alt="LeetCode"/>
-LeetCode
+<a href="https://leetcode.com/rahmansadik286" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg"
+         width="17" height="17" alt="LeetCode"/>
+    LeetCode
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.hackerrank.com/rahmansadik286" target="_blank">
-<img src="https://cdn.simpleicons.org/hackerrank" width="18" height="18" alt="HackerRank"/>
-HackerRank
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hackerrank.svg"
+         width="17" height="17" alt="HackerRank"/>
+    HackerRank
 </a>
 
 </p>
@@ -72,32 +79,37 @@ HackerRank
 <p align="left">
 
 <a href="https://www.cprogramming.com/" target="_blank">
-<img src="https://cdn.simpleicons.org/c" width="18" height="18" alt="C"/>
-C
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+         width="18" height="18" alt="C"/>
+    C
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://isocpp.org/" target="_blank">
-<img src="https://cdn.simpleicons.org/cplusplus" width="18" height="18" alt="C++"/>
-C++
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+         width="18" height="18" alt="C++"/>
+    C++
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.java.com/" target="_blank">
-<img src="https://cdn.simpleicons.org/openjdk" width="18" height="18" alt="Java"/>
-Java
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+         width="18" height="18" alt="Java"/>
+    Java
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.python.org/" target="_blank">
-<img src="https://cdn.simpleicons.org/python" width="18" height="18" alt="Python"/>
-Python
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+         width="18" height="18" alt="Python"/>
+    Python
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://dart.dev/" target="_blank">
-<img src="https://cdn.simpleicons.org/dart" width="18" height="18" alt="Dart"/>
-Dart
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"
+         width="18" height="18" alt="Dart"/>
+    Dart
 </a>
 
 </p>
@@ -107,45 +119,60 @@ Dart
 <p align="left">
 
 <a href="https://flutter.dev/" target="_blank">
-<img src="https://cdn.simpleicons.org/flutter" width="18" height="18" alt="Flutter"/>
-Flutter
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"
+         width="18" height="18" alt="Flutter"/>
+    Flutter
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://react.dev/" target="_blank">
-<img src="https://cdn.simpleicons.org/react" width="18" height="18" alt="React"/>
-React
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+         width="18" height="18" alt="React"/>
+    React
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://nextjs.org/" target="_blank">
-<img src="https://cdn.simpleicons.org/nextdotjs" width="18" height="18" alt="Next.js"/>
-Next.js
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
+         width="18" height="18" alt="Next.js"/>
+    Next.js
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://fastapi.tiangolo.com/" target="_blank">
-<img src="https://cdn.simpleicons.org/fastapi" width="18" height="18" alt="FastAPI"/>
-FastAPI
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"
+         width="18" height="18" alt="FastAPI"/>
+    FastAPI
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.prisma.io/" target="_blank">
-<img src="https://cdn.simpleicons.org/prisma" width="18" height="18" alt="Prisma"/>
-Prisma
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg"
+         width="18" height="18" alt="Prisma"/>
+    Prisma
 </a>
-&nbsp;&nbsp;
+
+</p>
+
+<h3 align="left">🗄️ Databases:</h3>
+
+<p align="left">
 
 <a href="https://www.postgresql.org/" target="_blank">
-<img src="https://cdn.simpleicons.org/postgresql" width="18" height="18" alt="PostgreSQL"/>
-PostgreSQL
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
+         width="18" height="18" alt="PostgreSQL"/>
+    PostgreSQL
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.mysql.com/" target="_blank">
-<img src="https://cdn.simpleicons.org/mysql" width="18" height="18" alt="MySQL"/>
-MySQL
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
+         width="18" height="18" alt="MySQL"/>
+    MySQL
 </a>
+&nbsp;&nbsp;&nbsp;
+
+<b>pgvector</b>
 
 </p>
 
@@ -155,14 +182,19 @@ MySQL
 
 <b>RAG</b>
 &nbsp;•&nbsp;
+
 <b>Vector Embeddings</b>
 &nbsp;•&nbsp;
+
 <b>Vector Database</b>
 &nbsp;•&nbsp;
+
 <b>LLM API Integration</b>
 &nbsp;•&nbsp;
+
 <b>REST APIs</b>
 &nbsp;•&nbsp;
+
 <b>JWT Authentication</b>
 
 </p>
@@ -172,19 +204,19 @@ MySQL
 <p align="left">
 
 <b>🏠 Rent&Tenant Manager</b><br>
-Flutter • Next.js • PostgreSQL • Prisma<br>
+<i>Flutter • Next.js • PostgreSQL • Prisma</i><br>
 A multi-tenant SaaS for landlords to manage properties, units, tenants, rent collection, and financial reporting.
 
 <br><br>
 
 <b>📦 Inventra</b><br>
-React • FastAPI • PostgreSQL<br>
+<i>React • FastAPI • PostgreSQL</i><br>
 The inventory OS for modern retailers. Inventra unifies products, sales, suppliers, dues, and reports into one fast workspace.
 
 <br><br>
 
 <b>📚 Study MAIte — AI Study Assistant</b><br>
-Flutter • FastAPI • pgvector • RAG • Gemini API<br>
+<i>Flutter • FastAPI • pgvector • RAG • Gemini API</i><br>
 An AI study app that turns lecture PDFs into AI-generated notes and quizzes using a self-built RAG pipeline with FastEmbed embeddings and pgvector retrieval over Gemini models.
 
 </p>
@@ -207,18 +239,24 @@ An AI study app that turns lecture PDFs into AI-generated notes and quizzes usin
 
 </p>
 
-<h3 align="left">📊 GitHub Stats:</h3>
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
 
 <div align="center">
 
-<img width="390" src="https://streak-stats.demolab.com/?user=Shadik286&count_private=true&theme=react&border_radius=10" alt="GitHub Streak"/>
+<img width="390"
+src="https://streak-stats.demolab.com/?user=Shadik286&count_private=true&theme=react&border_radius=10"
+alt="GitHub Streak"/>
 
 <br/>
 
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=Shadik286&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats"/>
+<img width="390"
+src="https://github-readme-stats.vercel.app/api?username=Shadik286&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10"
+alt="GitHub Stats"/>
 
 <br/>
 
-<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadik286&count_private=true&show_icons=true&theme=react&border_radius=10" alt="Top Languages"/>
+<img width="325"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadik286&count_private=true&show_icons=true&theme=react&border_radius=10"
+alt="Top Languages"/>
 
 </div>
