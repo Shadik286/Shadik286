@@ -24,21 +24,21 @@
 <p align="left">
 
 <a href="https://codeforces.com/profile/sdKrhMn286" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/codeforces.svg"
+    <img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator/src/images/icons/Social/codeforces.svg"
          width="17" height="17" alt="Codeforces"/>
     Codeforces
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://atcoder.jp/users/sadik286" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/atcoder.svg"
+    <img src="https://raw.githubusercontent.com/atcoder/atcoder-site/master/public/favicon.ico"
          width="17" height="17" alt="AtCoder"/>
     AtCoder
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/Shadik286" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/github.svg"
+    <img src="https://github.githubassets.com/favicons/favicon.svg"
          width="17" height="17" alt="GitHub"/>
     GitHub
 </a>
@@ -52,21 +52,21 @@
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.codechef.com/users/shadik286" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/codechef.svg"
+    <img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator/src/images/icons/Social/codechef.svg"
          width="17" height="17" alt="CodeChef"/>
     CodeChef
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://leetcode.com/rahmansadik286" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/leetcode.svg"
+    <img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator/src/images/icons/Social/leet-code.svg"
          width="17" height="17" alt="LeetCode"/>
     LeetCode
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.hackerrank.com/rahmansadik286" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/hackerrank.svg"
+    <img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator/src/images/icons/Social/hackerrank.svg"
          width="17" height="17" alt="HackerRank"/>
     HackerRank
 </a>
