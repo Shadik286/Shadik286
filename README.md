@@ -8,15 +8,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadik286&label=Profile%20views&color=0e75b6&style=flat" alt="shadik286" /> </p>
 
 - 👨‍💻 My Codeforces Profile [https://codeforces.com/profile/sdKrhMn286](https://codeforces.com/profile/sdKrhMn286)
-
 - 👨‍💻 My AtCoder Profile [https://atcoder.jp/users/sadik286](https://atcoder.jp/users/sadik286))
-
-- 💬 Ask me about **Data Structure, Algorithms**
-
 - 📫 How to reach me **rahmansadik286@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/shadikrahman286/](https://www.linkedin.com/in/shadikrahman286/)
-
+- 💬 Ask me about **Data Structure, Algorithms**
 <h3 align="left">Projects:</h3>
 
 - 🗃️ My project Cannon - https://shadik286.github.io/Cannon/
