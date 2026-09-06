@@ -19,55 +19,54 @@
 - 💬 Ask me about **Data Structures, Algorithms, Backend Development & AI**
 
 <br clear="right"/>
-
 <h3 align="left">🔗 Profiles:</h3>
 
 <p align="left">
 
 <a href="https://codeforces.com/profile/sdKrhMn286" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codeforces.svg"
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/codeforces.svg"
          width="17" height="17" alt="Codeforces"/>
     Codeforces
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://atcoder.jp/users/sadik286" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/atcoder.svg"
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/atcoder.svg"
          width="17" height="17" alt="AtCoder"/>
     AtCoder
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/Shadik286" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg"
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/github.svg"
          width="17" height="17" alt="GitHub"/>
     GitHub
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/shadikrahman286/" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg"
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"
          width="17" height="17" alt="LinkedIn"/>
     LinkedIn
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.codechef.com/users/shadik286" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codechef.svg"
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/codechef.svg"
          width="17" height="17" alt="CodeChef"/>
     CodeChef
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://leetcode.com/rahmansadik286" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg"
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/leetcode.svg"
          width="17" height="17" alt="LeetCode"/>
     LeetCode
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.hackerrank.com/rahmansadik286" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hackerrank.svg"
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/hackerrank.svg"
          width="17" height="17" alt="HackerRank"/>
     HackerRank
 </a>
