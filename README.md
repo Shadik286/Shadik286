@@ -179,24 +179,12 @@
 <h3 align="left">🤖 AI & Backend:</h3>
 
 <p align="left">
-
-<b>RAG</b>
-&nbsp;•&nbsp;
-
-<b>Vector Embeddings</b>
-&nbsp;•&nbsp;
-
-<b>Vector Database</b>
-&nbsp;•&nbsp;
-
-<b>LLM API Integration</b>
-&nbsp;•&nbsp;
-
-<b>REST APIs</b>
-&nbsp;•&nbsp;
-
-<b>JWT Authentication</b>
-
+  <b>RAG</b>&nbsp;&nbsp;•&nbsp;&nbsp;
+  <b>Vector Embeddings</b>&nbsp;&nbsp;•&nbsp;&nbsp;
+  <b>Vector Database</b>&nbsp;&nbsp;•&nbsp;&nbsp;
+  <b>LLM API Integration</b>&nbsp;&nbsp;•&nbsp;&nbsp;
+  <b>REST APIs</b>&nbsp;&nbsp;•&nbsp;&nbsp;
+  <b>JWT Authentication</b>
 </p>
 
 <h3 align="left">🚀 Projects:</h3>
